@@ -1,7 +1,8 @@
 # [42] Doom-Nukem
 L'objetif de ce projet à pour but de nous faire réaliser une moteur 3D, en utilisant la technique de raycasting.
+[Le sujet, au format PDF, est disponible ici.](https://github.com/Sylrelo/42-Doom-Nukem/blob/master/git_ressources/sujet.fr.pdf)
 ## Contraintes du projet
-**Fonction de la libc autorisée :** 
+**Fonction de la libc autorisée :**
 >- malloc
 >- free
 >- perror
@@ -10,9 +11,10 @@ L'objetif de ce projet à pour but de nous faire réaliser une moteur 3D, en uti
 
 **Librairies autorisée** :
 >- MinilibX
->- Libft 
+>- Libft
 >- SDL (uniquement les fonctions standard d'affichage de pixel et d'évènements)
 >- math (-lm)
+>- OpenAL
 
 **Tout les appels systèmes sont autorisé**
 
@@ -30,5 +32,8 @@ make
 
 ## Aperçu
 
-
-
+![screenshot](https://raw.githubusercontent.com/Sylrelo/42-Doom-Nukem/master/git_ressources/screen0.png)
+![screenshot](https://raw.githubusercontent.com/Sylrelo/42-Doom-Nukem/master/git_ressources/screen1.png)
+![screenshot](https://raw.githubusercontent.com/Sylrelo/42-Doom-Nukem/master/git_ressources/screen2.png)
+![screenshot](https://raw.githubusercontent.com/Sylrelo/42-Doom-Nukem/master/git_ressources/screen3.png)
+![screenshot](https://raw.githubusercontent.com/Sylrelo/42-Doom-Nukem/master/git_ressources/rotating.gif)
