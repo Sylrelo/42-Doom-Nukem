@@ -1,7 +1,10 @@
 # [42] Doom-Nukem
 L'objetif de ce projet à pour but de nous faire réaliser une moteur 3D, en utilisant la technique de raycasting.
 [Le sujet, au format PDF, est disponible ici.](https://github.com/Sylrelo/42-Doom-Nukem/blob/master/git_ressources/sujet.fr.pdf)
+
 ## Contraintes du projet
+Groupe de 3 à 4 étudiants.
+
 **Fonction de la libc autorisée :**
 >- malloc
 >- free
